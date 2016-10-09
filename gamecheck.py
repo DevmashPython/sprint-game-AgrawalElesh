@@ -46,5 +46,8 @@ while(1):
 		quit()
 
 
-					
+'''
+1. Mention controls for the game.
+
+'''
 				
